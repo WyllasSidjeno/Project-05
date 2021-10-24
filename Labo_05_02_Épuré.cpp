@@ -41,7 +41,7 @@ int main()
 	double coutFaconnage;
 	double coutProduction;					
 	double coutTotal;
-	int espacementIntroPage,		espacementIntroPage			= 36;
+	int espacementIntroPage,		espacementIntroPage		= 36;
 	int espacementVotreChoix,		espacementVotreChoix		= 37;
 	int espacementPerforation,		espacementPerforation		= 45;
 	int espacementDebutFacture,		espacementDebutFacture		= 2;
