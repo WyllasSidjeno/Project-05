@@ -45,7 +45,7 @@ int main()
 	int espacementVotreChoix,		espacementVotreChoix		= 37;
 	int espacementPerforation,		espacementPerforation		= 45;
 	int espacementDebutFacture,		espacementDebutFacture		= 2;
-	int espacementFactureDescrip,	espacementFactureDescrip	= 48;
+	int espacementFactureDescrip,		espacementFactureDescrip	= 48;
 	int espacementFactureCout$,		espacementFactureCout$		= 10;
 
 	//Input
